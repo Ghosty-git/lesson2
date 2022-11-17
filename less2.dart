@@ -28,8 +28,27 @@ void main() {
   print(ra);
   print(ra['age']);
 
-  var heart_symbol = '\u2665';
-  var laugh_symbol = '\u{1f600}';
-  print(heart_symbol);
-  print(laugh_symbol);
+//Finals
+  final a1 = "q";
+  final b1 = "w";
+  final c1 = "e";
+  final d1 = "r";
+  final e1 = "t";
+  final f1 = "y";
+
+//const
+  const q1 = "a";
+  const w1 = "b";
+  const e2 = "c";
+  const r1 = "d";
+  const t1 = "e";
+  const y1 = "f";
+
+//dynamic
+  dynamic a5 = '1';
+  dynamic a6 = 123;
+  dynamic a7 = "qwerty";
+  dynamic a8 = 10.2;
+  dynamic a9 = [123123, 1231231, 1231321];
+  print(a9);
 }
